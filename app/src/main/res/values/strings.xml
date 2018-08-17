@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fragment-demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="dialog_fragment">Dialog Fragment</string>
+    <string name="add_fragment">Add Fragment</string>
+    <string name="setting_language">Select language</string>
+    <string name="text_english">English</string>
+    <string name="text_hindi">Hindi</string>
+    <string name="lbl_cancel">Cancle</string>
+    <string name="alert_ok">Ok</string>
+</resources>
